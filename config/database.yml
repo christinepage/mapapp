@@ -48,7 +48,7 @@ test:
   encoding: unicode
   database: mapapp_test
   pool: 5
-  username: christine
+  username: mapapp
   password:
 
 production:
@@ -56,5 +56,5 @@ production:
   encoding: unicode
   database: mapapp_production
   pool: 5
-  username: christine
+  username: mapapp
   password:
